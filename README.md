@@ -15,10 +15,12 @@ The Survey Feedback Analyzer is a Python-based project developed as part of the 
 - Extract unique words from all feedback entries.
 - Sort feedback entries based on ratings.
 
+
 * Tools and Technologies
 
-- Python
-- Jupyter Notebook
+-Python
+-Jupyter Notebook
+
 
 * Python Concepts Used
 
